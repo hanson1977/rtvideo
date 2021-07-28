@@ -1,17 +1,4 @@
 ﻿  CRoomSettingDlg.cpp
-d:\webrtc\honghedemo\source\croomsettingdlg.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
-d:\webrtc\honghedemo\source\rtvideodemo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  DeviceCheckWnd.cpp
-d:\webrtc\honghedemo\source\devicecheckwnd.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\webrtc\honghedemo\source\rtvideodemo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\webrtc\honghedemo\source\devicecheckwnd.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  RtvideoDemo.cpp
-d:\webrtc\honghedemo\source\rtvideodemo.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\webrtc\honghedemo\source\rtvideodemo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  MainFrm.cpp
-d:\webrtc\honghedemo\source\mainfrm.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\webrtc\honghedemo\source\rtvideodemo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\webrtc\honghedemo\source\devicecheckwnd.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  正在生成代码...
-  rtvideodemo_withdll.vcxproj -> D:\webrtc\honghedemo\Debug\RtvideoDemoWithDll.exe
+d:\webrtc\github\rtvideo\source\rtvideodemo.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rtvideodemo_withdll.vcxproj -> D:\webrtc\github\rtvideo\Debug\RtvideoDemoWithDll.exe

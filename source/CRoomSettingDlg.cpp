@@ -1,4 +1,4 @@
-// CRoomSettingDlg.cpp: 实现文件
+﻿// CRoomSettingDlg.cpp: 实现文件
 //
 #include "resource.h"
 #include "CRoomSettingDlg.h"
@@ -51,7 +51,7 @@ BOOL CRoomSettingDlg::OnInitDialog()
 	const char* errMsg = NULL;
 	bool isConnected = is_vvserver_connected(theApp._instance, errCode, errMsg);
 	if (isConnected){
-		GetDlgItem(IDC_CONNSTAT)->SetWindowText(L"已连");
+		GetDlgItem(IDC_CONNSTAT)->SetWindowText(L"已连接");
 	}		
 	else if (errCode < 0) {
 		GetDlgItem(IDC_CONNSTAT)->SetWindowText(CString(errMsg));

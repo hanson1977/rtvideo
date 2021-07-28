@@ -1,4 +1,4 @@
-
+﻿
 // RtvideoDemo.cpp: 定义应用程序的类行为。
 //
 
@@ -19,7 +19,7 @@ CRtvideoDemoApp theApp;
 BOOL CRtvideoDemoApp::InitInstance()
 {
 	m_pMainWnd = new CMainFrame();
-	m_pMainWnd->SetWindowText(L"鸿合课堂视频测试");
+	m_pMainWnd->SetWindowText(L"1080P高清视频会议");
 	m_pMainWnd->ShowWindow(SW_SHOW);
 	m_pMainWnd->UpdateWindow();
 	return TRUE;
